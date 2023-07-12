@@ -1,0 +1,103 @@
+
+
+
+
+
+   [
+     {
+       "title": "Page Views",
+       "number": "87",
+       "percent": "3%",
+       "color": "green",
+       "mediaIcon": "icon-facebook.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 20,
+       "arrowIcon": "icon-up.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Likes",
+       "number": "52",
+       "percent": "2%",
+       "color": "red",
+       "mediaIcon": "icon-facebook.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 20,
+       "arrowIcon": "icon-down.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Likes",
+       "number": "5462",
+       "percent": "2257%",
+       "color": "green",
+       "mediaIcon": "icon-instagram.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 20,
+       "arrowIcon": "icon-up.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Profile Views",
+       "number": "52k",
+       "percent": "1375%",
+       "color": "green",
+       "mediaIcon": "icon-instagram.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 20,
+       "arrowIcon": "icon-up.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Retweets",
+       "number": "117",
+       "percent": "303%",
+       "color": "green",
+       "mediaIcon": "icon-twitter.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 17,
+       "arrowIcon": "icon-up.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Likes",
+       "number": "507",
+       "percent": "553%",
+       "color": "green",
+       "mediaIcon": "icon-twitter.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 17,
+       "arrowIcon": "icon-up.svg",
+       "rrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Likes",
+       "number": "107",
+       "percent": "19%",
+       "color": "red",
+       "mediaIcon": "icon-youtube.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 20,
+       "arrowIcon": "icon-down.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     },
+     {
+       "title": "Total Views",
+       "number": "1407",
+       "percent": "12%",
+       "color": "red",
+       "mediaIcon": "icon-youtube.svg",
+       "mediaWidth": 20,
+       "mediaHeight": 20,
+       "arrowIcon": "icon-down.svg",
+       "arrowWidth": 8,
+       "arrowHeight": 4
+     }
+   ]

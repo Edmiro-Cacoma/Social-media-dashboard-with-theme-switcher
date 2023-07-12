@@ -1,0 +1,50 @@
+[
+  {
+    "user": "@nathanf",
+    "followers": "1987",
+    "update": 12,
+    "color": "green",
+    "iconeImageUrl": "icon-up.svg",
+    "iconWidth": 8,
+    "iconHeight": 4,
+    "iconMediaUrl": "icon-facebook.svg",
+    "mediaHeight": 20,
+    "mediaWidth": 20
+  },
+  {
+    "user": "@nathanf",
+    "followers": "1044",
+    "update": 99,
+    "color": "green",
+    "iconeImageUrl": "icon-up.svg",
+    "iconWidth": 8,
+    "iconHeight": 4,
+    "iconMediaUrl": "icon-twitter.svg",
+    "mediaHeight": 20,
+    "mediaWidth": 17
+  },
+  {
+    "user": "@realnathanf",
+    "followers": "11k",
+    "update": 1099,
+    "color": "green",
+    "iconeImageUrl": "icon-up.svg",
+    "iconWidth": 8,
+    "iconHeight": 4,
+    "iconMediaUrl": "icon-instagram.svg",
+    "mediaHeight": 20,
+    "mediaWidth": 20
+  },
+  {
+    "user": "Nathan F.",
+    "followers": "8239",
+    "update": 144,
+    "color": "green",
+    "iconeImageUrl": "icon-down.svg",
+    "iconWidth": 8,
+    "iconHeight": 4,
+    "iconMediaUrl": "icon-youtube.svg",
+    "mediaHeight": 20,
+    "mediaWidth": 20
+  }
+]
