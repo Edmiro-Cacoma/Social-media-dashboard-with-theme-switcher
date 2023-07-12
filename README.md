@@ -28,8 +28,9 @@ Users should be able to:
 - Toggle color theme to their preference
 
 ### Screenshot
+![dashboardDark](https://github.com/Edmiro-Cacoma/Social-media-dashboard-with-theme-switcher/assets/62661230/3d6c221b-03bf-4cf4-bdba-c57e3a84cf40)
+![dashboardMobile](https://github.com/Edmiro-Cacoma/Social-media-dashboard-with-theme-switcher/assets/62661230/a61de3db-4ed1-4054-aa2d-8a1349c2fe30)
 
-![](./screenshot.jpg)
 
 
 
